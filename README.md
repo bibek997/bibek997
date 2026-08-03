@@ -1,5 +1,5 @@
-#ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤHi, I'm Hitendra Burja Magar:
- ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤA Computer Science and Software Engineering graduate from Nepal.
+#Hi, I'm Hitendra Burja Magar:
+A Computer Science and Software Engineering graduate from Nepal.
 
 
 ## 🌐 Socials:
