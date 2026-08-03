@@ -1,4 +1,4 @@
-#Hi, I'm Hitendra Burja Magar:
+# Hi, I'm Htendra Burja Magar
 A Computer Science and Software Engineering graduate from Nepal.
 
 
@@ -13,5 +13,4 @@ A Computer Science and Software Engineering graduate from Nepal.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bibek997&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
